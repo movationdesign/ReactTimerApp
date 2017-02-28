@@ -21,9 +21,3 @@ ReactDOM.render(
   </Router>,
   document.getElementById('app')
 );
-
-
-/*
-    <Countdown/>
-          <Timer/>
-*/
